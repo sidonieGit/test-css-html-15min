@@ -1,5 +1,7 @@
 body {
   background-color: lightblue;
+  margin-top: 20px;
+  padding: 5px;
 }
 p {
   color: red;
